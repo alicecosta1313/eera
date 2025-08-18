@@ -24,10 +24,19 @@
 <main>
   <section>
     <h2> Top 5 Minhas Séries Preferidas</h2>
-    <article><h3>1. TeenWolf</h3><p>Drama adolescente sobrenatural,sobre um garoto mordido por um lobisomem.</p></article>
+    <article><h3>1. Teen Wolf</h3><p>Drama adolescente sobrenatural,sobre um garoto mordido por um lobisomem.</p></article>
     <article><h3>2. A Casa da Coruja</h3><p> Sobre uma humana chamada Luz que descobre um portal para um mundo mágico chamado "Ilhas Escaldadas", onde vive aventuras com seus amigos, uma bruxa e um demônio.</p></article>
-    
-    
+    <article><h3>3. Minha Lady Jane</h3><p>Uma narrativa alternativa da história da conhecida "Rainha dos 9 dias".</p></article>
+    <article><h3>4. Dragões Corrida Até o Limite</h3><p> Uma série de animação que continua a história de "Como Treinar Seu Dragão 2". Ela mostra Soluço e Banguela e os outros jovens de Berk vivendo aventuras a procura de novos dragões.  </p></article>
+    <article><h3>5. Desventuras em Série</h3><p> A história de três orfãos Violet, Klaus e Sunny Baudelaire, que per5dem os pais em um incêndio misterioso. Eles são colocados sob a guarda de Conde Olaf, um vilão disfarçado que só quer a fortuna deixada para os orfãos.
+    </p></article>
+   </section>
+
+  <section>
+    <h2> Melhores Casais</h2>
+    <p> Teen Wolf: Stiles e Lydia</p>
+    <p> A Casa da Coruja: Luz e Amity</p>
+    <p> Minha Lady Jane: Jane Grey e Guildford Dudley</p>
     
   </section>
 </main>
