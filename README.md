@@ -45,7 +45,7 @@
     <h2> Melhor Personagem</h2>
     <p> Teen Wolf: Stiles Stilinski, o mais mais né mores!</p>
     <p> A Casa Da Coruja: Amity Blight, e-girl mais iconica do mundo!!</p>
-    <p> Minha Lady Jane: Jane Grey, conseguiu manter a coroa na cabeça mesmo todo munbdo estando contra ela.</p>
+    <p> Minha Lady Jane: Jane Grey, conseguiu manter a coroa na cabeça mesmo todo munndo estando contra ela.</p>
     <p> Dragões: Corrida até o Limite: Astrid Hofferson, a mulher mais incrível das animações.</p>
     <p> Desvcenturas em Série: Violet Bauldelaire, diva inteligente que protegeu os irmãos, contruiu artefatos perigos e se manteve em perigo só para proteger quem amava.</p>
   </section>
